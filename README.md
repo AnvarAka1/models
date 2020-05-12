@@ -1,0 +1,1 @@
+Please, copy these files inside /static folder
